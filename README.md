@@ -1,4 +1,6 @@
 # 📘 Juros Simples e Compostos – Educação Financeira nas Finanças Domésticas
+<img width="1295" height="565" alt="image" src="https://github.com/user-attachments/assets/771bad71-d76f-4b90-8905-4d98d21e9938" />
+
 
 Projeto desenvolvido como desafio da DIO, utilizando o NotebookLM como ferramenta de aprendizagem ativa para organização de fontes, elaboração de perguntas estratégicas e construção de um miniguia de estudo sobre juros simples e compostos aplicados às finanças domésticas.
 
