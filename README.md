@@ -4,7 +4,7 @@ Projeto desenvolvido como desafio da DIO, utilizando o NotebookLM como ferrament
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Este projeto tem como finalidade apresentar os conceitos de juros simples e juros compostos de forma didática e acessível, facilitando a compreensão da matemática financeira aplicada ao cotidiano.
 
@@ -12,7 +12,7 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 📚 Metodologia Utilizada
+##  Metodologia Utilizada
 
 - Curadoria de 3 fontes em PDF sobre juros simples e compostos.
 - Organização do conteúdo no NotebookLM.
@@ -24,7 +24,7 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 📖 Miniguia de Estudo
+##  Miniguia de Estudo
 
 ### 🔹 Juros Simples
 - Incidem apenas sobre o capital inicial.
@@ -40,7 +40,7 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 📊 Comparação
+## Comparação
 
 | Aspecto | Juros Simples | Juros Compostos |
 |----------|---------------|----------------|
@@ -51,7 +51,7 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 💰 Aplicação nas Finanças Domésticas
+##  Aplicação nas Finanças Domésticas
 
 - Cartão de crédito utiliza juros compostos.
 - Crédito rotativo pode gerar crescimento acelerado da dívida.
@@ -60,7 +60,7 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 📘 Glossário
+##  Glossário
 
 - **Capital:** Valor inicial aplicado ou emprestado.
 - **Taxa de juros:** Percentual aplicado ao capital.
@@ -70,11 +70,11 @@ Além disso, busca oferecer uma visão introdutória sobre educação financeira
 
 ---
 
-## 🎥 Vídeo Complementar – O Valor do Dinheiro
+##  Vídeo Complementar – O Valor do Dinheiro
 
 O vídeo apresenta, de forma objetiva e didática, a importância da administração consciente dos recursos financeiros nas finanças domésticas, destacando como planejamento e controle de gastos contribuem para uma vida confortável e segura, evitando o endividamento excessivo.
 
-🔗 (Inserir aqui o link do vídeo)
+🔗 https://youtu.be/enokAiaVWCs
 
 ---
 
@@ -88,7 +88,7 @@ O uso consciente da tecnologia contribui para uma construção de conhecimento m
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Edmar Pereira  
 Projeto desenvolvido para desafio educacional da DIO.
